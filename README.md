@@ -10,4 +10,4 @@
 
 这些平台提供了丰富的视频资源，用户可以根据类型、演员等信息筛选，快速找到自己喜欢的影片。每个视频页面都显示影片的时长、演员、清晰度等详细信息。平台支持高清视频播放，并根据网络环境自动优化画质，确保观看流畅体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/zui20250709/zui13 ）</span>
